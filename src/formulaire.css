@@ -1,0 +1,49 @@
+#personnel input{
+    border-radius: 20px;
+    opacity: 1;
+    display: flex;
+    border-color: transparent;
+    width: 80%;
+    margin-top: 10px;
+    height: 20px;
+}
+#cv{
+    color: rgb(254, 254, 253);
+    background-image: image-set("papers.co-sa52-blurred-white-blur-wallpaper-25-wallpaper.jpg");
+    background-size: cover;
+    margin-left: 20%;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#form{
+    background-image: image-set("papers.co-sa52-blurred-white-blur-wallpaper-25-wallpaper.jpg");
+    
+    background-size: cover;
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+
+}
+li{
+    padding-top: 9px;
+    list-style-type: none;
+
+}
+ul{
+    margin-left: -40px;
+}
+
+
+body{
+    font-size: medium;
+    font-weight: bold;
+}
+#bouton{
+    background-color: rgb(12, 133, 232);
+    color: white;
+    font-weight: bold;
+}
+#bouton:hover{
+    cursor: pointer;
+}
